@@ -2,9 +2,9 @@
 <addon id="repository.weebay" name="Weebay Repository" version="1.0.0" provider-name="WeebayModz">
     <extension point="xbmc.addon.repository" name="Weebay Repository">
         <dir>
-            <info compressed="false">https://weebaymodz.github.io/repository.weebay/addons.xml</info>
-            <checksum>https://weebaymodz.github.io/repository.weebay/addons.xml.md5</checksum>
-            <datadir zip="true">https://weebaymodz.github.io/repository.weebay/</datadir>
+            <info compressed="false">https://weebaymodz.github.io/testrepo/addons.xml</info>
+            <checksum>https://weebaymodz.github.io/testrepo/addons.xml.md5</checksum>
+            <datadir zip="true">https://weebaymodz.github.io/testrepo/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
