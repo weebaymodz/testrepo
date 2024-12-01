@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="General">
+        <setting label="Results per page" type="number" id="results_per_page" default="20"/>
+        <setting label="Enable adult content" type="bool" id="adult_content" default="false"/>
+    </category>
+</settings>
